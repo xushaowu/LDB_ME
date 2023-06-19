@@ -11,7 +11,10 @@ Shaowu Xu<sup>1</sup>, Luo Wang<sup>1</sup>, [Xibin Jia](https://scholar.google.
 
 ***
 
-This is the official implementation of our proposed two constraint principles for graph augmentation, LDP (low dissimilarity priority) and mutual exclusion (ME). The backbone model used in the graph classification experiments is [GraphCL](https://github.com/Shen-Lab/GraphCL/tree/master) that takes NT-Xent for graph-structured data as the optimization objective. The backbone model used in the node classification experiments is [GCA](https://github.com/CRIPAC-DIG/GCA), using the improved InfoNCE as the loss function.
+This is the official implementation of our proposed two constraint principles for graph augmentation, LDP (low dissimilarity priority) and mutual exclusion (ME). 
+
+
+The backbone models used in the graph classification experiment and node classification experiment are [GraphCL](https://github.com/Shen-Lab/GraphCL/tree/master) and [GCA](https://github.com/CRIPAC-DIG/GCA), respectively.
 
 ## Overview
 **Abstract:** Studies on graph contrastive learning, which is an effective way of self-supervision, have achieved excellent experimental performance. 
