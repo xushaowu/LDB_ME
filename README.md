@@ -1,5 +1,5 @@
 
-**We will promptly organize and upload the code as soon as possible. Thank you for your understanding and patience.**
+**We will promptly organize the code and ensure its proper functioning on other laboratory devices before uploading it. Thank you for your understanding and patience.**
 ***
 
 <div align="center">
