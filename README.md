@@ -38,10 +38,10 @@ This is the official implementation of our proposed two constraint principles fo
 
 <details><summary>The code is built with following libraries. </summary><p>
 
-** GraphCL **
+**GraphCL**
 - [PyTorch](https://pytorch.org/) >= 1.4
   
-** GraphCL **
+**GCA**
 - [PyTorch](https://pytorch.org/) >= 1.8
 
 </p></details>
