@@ -46,7 +46,7 @@ This is the official implementation of our proposed two constraint principles fo
 <a name="training"></a>
 ## Usage
 
-The implementation of the graph data augmentation module based on the proposed constraint principles are now available in this repository. You can replace the corresponding code files provided in this project with the ones in [GraphCL](https://github.com/Shen-Lab/GraphCL/tree/master) or [GCA](https://github.com/CRIPAC-DIG/GCA), and use them after debugging.
+The implementation of the graph data augmentation module based on the proposed constraint principles are now available. You can replace the corresponding code files provided in this repository with the ones in [GraphCL](https://github.com/Shen-Lab/GraphCL/tree/master) or [GCA](https://github.com/CRIPAC-DIG/GCA), and use them after debugging.
 
 We are currently organizing the complete version of the code that can run independently. Once the organization process is completed and we have tested its compatibility with other devices in our laboratory, we will gradually upload the finalized code to this repository.
 
