@@ -1,5 +1,3 @@
-***
-
 <div align="center">
 
 <h2> Graph Contrastive Learning with Constrained Graph Data Augmentation </h2>
