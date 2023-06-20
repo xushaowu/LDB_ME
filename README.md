@@ -31,3 +31,20 @@ This is the official implementation of our proposed two constraint principles fo
 
 ![ME](docs/ME.svg)
 **Fig. 2** The schematic diagram of the proposed ME principle, taking node dropping as example. The red and blue nodes represent nodes belonging to different subsets of nodes.
+
+
+<a name="prerequisites"></a>
+## Prerequisites
+
+<details><summary>The code is built with following libraries. </summary><p>
+
+** GraphCL **
+- [PyTorch](https://pytorch.org/) >= 1.4
+  
+** GraphCL **
+- [PyTorch](https://pytorch.org/) >= 1.8
+
+</p></details>
+
+
+<a name="data-preparation"></a>
