@@ -1,5 +1,3 @@
-
-**We will promptly organize the code and ensure its proper functioning on other laboratory devices before uploading it. Thank you for your understanding and patience.**
 ***
 
 <div align="center">
@@ -47,4 +45,11 @@ This is the official implementation of our proposed two constraint principles fo
 </p></details>
 
 
-<a name="data-preparation"></a>
+<a name="training"></a>
+## Usage
+
+The implementation of the graph data augmentation module for the proposed method is now available in this repository. You can replace the corresponding code files provided in this project with the ones in [GraphCL](https://github.com/Shen-Lab/GraphCL/tree/master) or [GCA](https://github.com/CRIPAC-DIG/GCA), and use them after debugging.
+
+We are currently organizing the complete version of the code that can run independently. Once the organization process is completed and we have tested its compatibility with other devices in our laboratory, we will gradually upload the finalized code to this repository.
+
+We apologize for any inconvenience caused and appreciate your understanding and patience.
