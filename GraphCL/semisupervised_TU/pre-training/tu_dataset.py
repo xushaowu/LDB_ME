@@ -228,8 +228,7 @@ def drop_nodes_ldp(data, aug_ratio, npower):
     
     #idx_drop = np.random.choice(node_num, drop_num, replace=False, p=weight / weight.sum())
     #idx_nondrop = np.array([n for n in range(node_num) if not n in idx_drop])
-    #'''
-    #st()
+    
     try:
         idx_drop = np.random.choice(node_num, drop_num, replace=False, p=weight / weight.sum())
         idx_nondrop = np.array([n for n in range(node_num) if not n in idx_drop])
@@ -237,7 +236,7 @@ def drop_nodes_ldp(data, aug_ratio, npower):
         #print("warning: choice failed.")
         idx_sorted_w = np.argsort(weight)
         idx_nondrop  = idx_sorted_w[drop_num:]
-    #'''
+
 
     # idx_nondrop.sort()
     idx_dict = {idx_nondrop[n]:n for n in list(range(idx_nondrop.shape[0]))}
