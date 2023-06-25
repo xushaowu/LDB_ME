@@ -11,7 +11,9 @@ Shaowu Xu<sup>1</sup>, Luo Wang<sup>1</sup>, [Xibin Jia](https://scholar.google.
 
 ***
 
-This is the official implementation of our proposed two constraint principles for graph augmentation, LDP (low dissimilarity priority) and mutual exclusion (ME). The backbone models used in the graph classification experiment and node classification experiment are [GraphCL](https://github.com/Shen-Lab/GraphCL/tree/master) and [GCA](https://github.com/CRIPAC-DIG/GCA), respectively.
+This is the official implementation of our proposed two constraint principles for graph augmentation, LDP (low dissimilarity priority) and mutual exclusion (ME). 
+
+The backbone models used in the graph classification experiment and node classification experiment are [GraphCL](https://github.com/Shen-Lab/GraphCL/tree/master) and [GCA](https://github.com/CRIPAC-DIG/GCA), respectively.
 
 
 ## Overview
