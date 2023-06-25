@@ -18,7 +18,7 @@ def drop_feature(x, drop_prob):
 
 
 def drop_feature_weighted(x, w, p: float, threshold: float = 0.7):
-    #st()
+    
     w = w / w.mean() * p
     w = w.where(w < threshold, torch.ones_like(w) * threshold)
     drop_prob = w.repeat(x.size(0)).view(x.size(0), -1)
